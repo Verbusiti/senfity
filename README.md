@@ -1,6 +1,7 @@
 <img src="https://i.imgur.com/JDdtR1D.png" width="80%">
 
-Spotify is a digital music service that gives you access to millions of songs. Spotify is all the music you'll ever need.  Play millions of songs and podcasts on your device. Bring your music to mobile and tablet, too.
+Adobe Premiere Pro
+Adobe Premiere Pro is a timeline-based and non-linear video editing software application developed by Adobe Inc. and published as part of the Adobe Creative Cloud licensing program. First launched in 2003, Adobe Premiere Pro is a successor of Adobe Premiere.
 
 ## Install
     • Click button "code"
